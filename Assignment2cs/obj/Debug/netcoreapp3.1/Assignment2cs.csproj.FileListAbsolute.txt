@@ -1,0 +1,14 @@
+C:\Users\masen\source\repos\Assignment2cs\Assignment2cs\bin\Debug\netcoreapp3.1\Assignment2cs.exe
+C:\Users\masen\source\repos\Assignment2cs\Assignment2cs\bin\Debug\netcoreapp3.1\Assignment2cs.deps.json
+C:\Users\masen\source\repos\Assignment2cs\Assignment2cs\bin\Debug\netcoreapp3.1\Assignment2cs.runtimeconfig.json
+C:\Users\masen\source\repos\Assignment2cs\Assignment2cs\bin\Debug\netcoreapp3.1\Assignment2cs.runtimeconfig.dev.json
+C:\Users\masen\source\repos\Assignment2cs\Assignment2cs\bin\Debug\netcoreapp3.1\Assignment2cs.dll
+C:\Users\masen\source\repos\Assignment2cs\Assignment2cs\bin\Debug\netcoreapp3.1\Assignment2cs.pdb
+C:\Users\masen\source\repos\Assignment2cs\Assignment2cs\obj\Debug\netcoreapp3.1\Assignment2cs.csproj.AssemblyReference.cache
+C:\Users\masen\source\repos\Assignment2cs\Assignment2cs\obj\Debug\netcoreapp3.1\Assignment2cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masen\source\repos\Assignment2cs\Assignment2cs\obj\Debug\netcoreapp3.1\Assignment2cs.AssemblyInfoInputs.cache
+C:\Users\masen\source\repos\Assignment2cs\Assignment2cs\obj\Debug\netcoreapp3.1\Assignment2cs.AssemblyInfo.cs
+C:\Users\masen\source\repos\Assignment2cs\Assignment2cs\obj\Debug\netcoreapp3.1\Assignment2cs.csproj.CoreCompileInputs.cache
+C:\Users\masen\source\repos\Assignment2cs\Assignment2cs\obj\Debug\netcoreapp3.1\Assignment2cs.dll
+C:\Users\masen\source\repos\Assignment2cs\Assignment2cs\obj\Debug\netcoreapp3.1\Assignment2cs.pdb
+C:\Users\masen\source\repos\Assignment2cs\Assignment2cs\obj\Debug\netcoreapp3.1\Assignment2cs.genruntimeconfig.cache
